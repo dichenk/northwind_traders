@@ -9,6 +9,7 @@ packages = [{include = "northwind_traders"}]
 [tool.poetry.dependencies]
 python = "^3.10"
 pandas = "^1.5.2"
+psycopg2 = "^2.9.5"
 
 
 [build-system]
